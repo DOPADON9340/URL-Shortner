@@ -22,7 +22,7 @@ A full-stack URL shortener application built with React, Redux Toolkit, Vite, an
 ## Installation
 
 1. Clone the repo:
-git clone https://github.com/yourusername/your-repo.git
+git clone [https://github.com/yourusername/your-repo.git](https://github.com/DOPADON9340/URL-Shortner)
 cd your-repo
 
 text
